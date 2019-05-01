@@ -1,1 +1,2 @@
-# Collections of Ubuntu Solutions for some issues
+# Main
+Collections of Ubuntu Solutions for some issues
